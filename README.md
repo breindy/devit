@@ -30,6 +30,3 @@ An online platform that helps developers connect and share resources and informa
 - Mongoose / MongoDB/ Atlas
 - bcrypt Password Hashing
 - Heroku & Git Deployment
-
-#### Libraries
-- mongoose: object modeling for node.js
